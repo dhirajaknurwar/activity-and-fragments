@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Actvity With Multiple Fragment</string>
+    <string name="second_fragment">MOVE TO SECOND FRAGMENT</string>
+    <string name="back_to_second_frag">BACK TO SECOND FRAG</string>
+    <string name="third_fragment">MOVE TO THIRD FRAGMENT</string>
+    <string name="fourth_fragment">MOVE TO FOURTH FRAGMENT</string>
+</resources>
